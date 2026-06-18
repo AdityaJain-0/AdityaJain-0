@@ -43,10 +43,6 @@ I build the full pipeline from signal to system: filtering and decoding raw EEG,
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaJain-0&show_icons=true&theme=default&hide_title=false" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaJain-0&theme=default" alt="streak stats" height="165"/>
-</p>
 
 <p align="center">
   📫 Reach me at <i>hi2aditya@outlook.com</i> · <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HERE">hi2aditya</a>
