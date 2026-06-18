@@ -29,7 +29,7 @@ I build the full pipeline from signal to system: filtering and decoding raw EEG,
 **[SNN Energy-Efficiency Benchmarking](https://github.com/AdityaJain-0/SNN-Energy-Efficiency-Benchmarking)** — Benchmarks ATCNet, EEGNet, and ShallowConvNet against hybrid and fully spiking neural networks on 3-class EEG motor imagery (BNCI2014_001), comparing accuracy, F1, and estimated inference energy side by side. Rigorous evaluation across within-subject and leave-one-subject-out cross-validation.
 `PyTorch` `SpikingJelly` `MOABB` `MNE`
 
-**[Learning Machine Learning](https://github.com/AdityaJain-0/ML-From-Scratch)** — Core supervised and unsupervised ML algorithms (linear/logistic regression, SVM, random forest, gradient boosting, k-means, DBSCAN, and more) implemented from scratch in NumPy, paired with hand-written derivations of the underlying math and applied scikit-learn examples.
+**[ML From Scratch](https://github.com/AdityaJain-0/ML-From-Scratch)** — Core supervised and unsupervised ML algorithms (linear/logistic regression, SVM, random forest, gradient boosting, k-means, DBSCAN, and more) implemented from scratch in NumPy, paired with hand-written derivations of the underlying math and applied scikit-learn examples.
 `Python` `NumPy` `scikit-learn` `XGBoost`
 
 **[SimCity](https://github.com/AdityaJain-0/SimCity)** — A C++ simulation of city growth across industrial, residential, and commercial sectors, driven by configurable CSV layouts and custom growth/pollution rules. Started as a class project; I took it on independently afterward and have continued developing it solo.
