@@ -35,6 +35,9 @@ I build the full pipeline from signal to system: filtering and decoding raw EEG,
 **[SimCity](https://github.com/AdityaJain-0/SimCity)** — A C++ simulation of city growth across industrial, residential, and commercial sectors, driven by configurable CSV layouts and custom growth/pollution rules. Started as a class project; I took it on independently afterward and have continued developing it solo.
 `C++` `OOP` `Simulation`
 
+**[EMG Gesture Recognition Model](https://github.com/AdityaJain-0/EMG-Gesture-Recognition-Model)** — SVM-based classifier decoding 6 hand gestures from surface EMG signals (Myo armband), reaching 89.8% accuracy after iterating from raw signal features to a 40-feature engineered representation (including slope sign changes). Includes learning curve analysis and confusion matrix evaluation to diagnose model behavior and class-level confusion.
+`Python` `scikit-learn` `SciPy` `Signal Processing` `SVM`
+
 ---
 
 ### Skills
